@@ -25,7 +25,7 @@ if __name__ == "__main__":
     phi             = 'x'
     
     mosaic              = True
-    Cosine_scheduler    = True
+    Cosine_scheduler    = False
 
     Init_Epoch          = 0
     Freeze_Epoch        = 50
