@@ -21,7 +21,7 @@ if __name__ == "__main__":
     eager = False 
     classes_path    = 'model_data/voc_classes.txt'
     model_path      = 'model_data/yolox_x.h5'
-    input_shape     = [1280, 1280]
+    input_shape     = [960, 960]
     phi             = 'x'
     
     mosaic              = True
